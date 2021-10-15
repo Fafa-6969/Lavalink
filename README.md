@@ -37,7 +37,7 @@ server:
   address: 0.0.0.0
   port: <your port>
 ```
-> Change **\<your port\>** to your server's port*.
+> Change **\<your port\>** to your server's port[*](https://discord.gg/dbh).
 
 
 ## Where's the port?*
