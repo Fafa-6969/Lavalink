@@ -40,5 +40,5 @@ server:
 > Change **\<your port\>** to your server's port*.
 
 
-> Where's the port?*
-> ![Port of your Server](https://media.discordapp.net/attachments/898041892279836692/898586887218954320/1634310136.jpg) 
+## Where's the port?*
+![Port of your Server](https://media.discordapp.net/attachments/898041892279836692/898586887218954320/1634310136.jpg) 
