@@ -5,7 +5,7 @@ lavalink:
   server:
     bufferDurationMs: 400
     gc-warnings: true
-    password: whatisyourproblem
+    password: dottosimp
     playerUpdateInterval: 5
     soundcloudSearchEnabled: true
     sources:
