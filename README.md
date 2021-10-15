@@ -1,4 +1,4 @@
-# Lavalink File (application.yml)
+## Lavalink File (application.yml)
 #### Paste this inside your application.yml file:
 ```js
 lavalink:
